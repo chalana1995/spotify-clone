@@ -18,7 +18,7 @@ const SongDetails = () => {
 
   return (
     <div>
-      {/* <DetailsHeader artistsId={artistsId} songData={songData} /> */}
+      <DetailsHeader artistsId="" songData={songData} />
       <div className="mb-10">
         <h2 className="text-white text-3xl font-bold">Lyrics:</h2>
       </div>
